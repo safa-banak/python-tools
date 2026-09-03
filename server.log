@@ -1,0 +1,6 @@
+2026-09-03 10:00:01 INFO Server started
+2026-09-03 10:01:15 ERROR Disk space low
+2026-09-03 10:02:30 INFO User logged in
+2026-09-03 10:05:45 ERROR Database connection failed
+2026-09-03 10:07:00 WARNING High memory usage
+2026-09-03 10:10:12 ERROR Service crashed
