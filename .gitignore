@@ -1,3 +1,13 @@
 *.log
 system_report.csv
 system_report.json
+__pycache__/
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.lesshst
+.motd_shown
+.cache/
+.config/
+.gitconfig
